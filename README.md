@@ -1,7 +1,7 @@
 # Jogo das Bandeiras
 
 O **Jogo das Bandeiras** é um quiz interativo desenvolvido com Flutter, onde os jogadores devem identificar as bandeiras de diferentes países. O jogo é cronometrado e avalia o desempenho com base na precisão das respostas.
-
+Link par o video: https://youtu.be/vdDDHEXhtC0
 ---
 
 ## Funcionalidades
